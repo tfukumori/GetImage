@@ -1,0 +1,5 @@
+D:
+
+Cd D:\GetImage
+
+python cr-getyahooimages.py 3000 "”L,Œ¢"
